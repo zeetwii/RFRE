@@ -47,3 +47,6 @@ There are six projects in the course that must be completed for a grade.  Each p
 | Space Force | Take over a CubeSat simulator and practice targeting satellite based systems | TBD |
 | Apocalypse Now | Using all of the data links and vulnerabilities discussed in class, design a presentation showing all the vulnerabilities you identified in a city assigned to you by your instructor.  | TBD |
   
+  ## Course Books
+
+  While not needed, a good intro to RF exploitation is [Inside Radio an Attack and Defense guide](https://www.amazon.com/Inside-Radio-Attack-Defense-Guide/dp/9811084467).  Many of the projects being used or discussed in the class can be found here, making it a good refresher or reference material.  
