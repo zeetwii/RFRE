@@ -5,3 +5,4 @@ After each class period,the instructor will upload the notes and reference links
 | Date | Notes |
 | :---: | :---: |
 | 8/27 | Course Intro |
+| 8/29 | Basic Signal Analysis |
