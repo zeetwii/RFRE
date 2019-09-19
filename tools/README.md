@@ -14,6 +14,7 @@ Throughout the class we will use a variety of tools to help us detect, decode, a
 ## Analysis Tools
 
   * [Universal Radio Hacker](https://github.com/jopohl/urh) - A good tool for windows and linux to do both low level demodulation and message analysis on signals.
+  * [Audacity](https://www.audacityteam.org/) - A good tool for audio generation and analysis
 
 ## Web Links
 
